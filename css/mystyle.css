@@ -1,0 +1,110 @@
+
+/* Title Navbar Area */
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #4b453c;
+
+}
+
+#title {
+    background-color: #4b453c;
+}
+
+.title-container {
+    padding: 2% 8%;
+}
+
+h1 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 4.5rem;
+    line-height: 1.5;
+    font-weight: 700;
+    color: #E6CBBF;
+    padding-left: 17px;
+}
+
+.alex-image {
+    max-width: 45%;
+    height: auto;
+    border-radius: 50%;
+    margin-left: 115px;
+
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+    color: #E6CBBF;
+}
+
+.nav-item {
+    padding-left: 25px;
+}
+
+
+/* "A" logo */
+.fa-adn {
+    font-size: 3rem;
+    color: #E6CBBF;
+}
+
+.fa-adn:hover {
+    color: whitesmoke;
+}
+
+.my-name {
+    color: whitesmoke;
+}
+
+
+/* Links Area */
+
+.three-icons {
+    text-align: center;
+    width: 25%;
+    font-size: 50px;    
+    padding-bottom: 20px;
+    color: #824e4e
+}
+
+.three-icons:hover{
+    text-align: center;
+    width: 100%;
+    font-size: 60px;    
+    padding-bottom: 20px;
+    color: whitesmoke;
+
+}
+
+.icon-texts {
+    text-align: center;
+    font-size: 1.1rem;
+    font-family: 'Comfortaa', cursive;
+    color: #443f37;
+}
+
+#links {
+    background-color: #c2ae95;
+    padding: 4% 10%;
+
+}
+
+#about-me {
+    background-color: #4b453c;
+}
+
+h2 {
+    color: #f3d6ca;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 700;
+    padding-left: 17px
+}
+
+.aboutme-container {
+    padding: 2% 8%;
+}
+
+.about-me-text {
+    color: #E6CBBF;
+}
