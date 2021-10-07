@@ -91,6 +91,7 @@ h1 {
 
 #about-me {
     background-color: #4b453c;
+    padding: 4%;
 }
 
 h2 {
@@ -107,4 +108,5 @@ h2 {
 
 .about-me-text {
     color: #E6CBBF;
+    font-size: 1.1rem;
 }
